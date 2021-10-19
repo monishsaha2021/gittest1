@@ -1,0 +1,97 @@
+/* Large desktops and laptops */
+@media (min-width: 1200px) {
+
+}
+
+/* Landscape tablets and medium desktops */
+@media (min-width: 992px) and (max-width: 1199px) 
+{
+  /*#blue
+  {
+    padding-top: 65px;
+  }*/
+}
+
+/* Portrait tablets and small desktops */
+@media (min-width: 768px) and (max-width: 980px) 
+{
+    .msg-size
+    {
+        font-size: 10px !important;
+    }
+    .col-sm
+   {
+     padding-left: 3em !important;
+   }
+   .top
+   {
+     padding-top: 3em !important;
+     padding-left: 3em ;
+   }
+   #blue
+  {
+    padding-top: 60px;
+  }
+    
+}
+
+/* Landscape phones and portrait tablets */
+@media (max-width: 768px) 
+{
+ 
+ .msg-size
+    {
+        font-size: 10px !important;
+    }
+  .pager
+  {
+    margin-left: 5px !important;
+  }  
+ .size
+    {
+        font-size: 12px !important;
+        padding-left: 10px !important;
+    } 
+    input,
+    input::-webkit-input-placeholder {
+    font-size: 12px;
+    line-height: 3;
+   }
+   .demo-browser-side
+   {
+     width: 120px !important;
+   }
+   .follow,.fui-plus
+   {
+    font-size: 12px !important;
+   }
+   .align
+   {
+    text-align: center;
+   }
+   .btn-download
+   {
+    margin-left: 42%;
+   }
+   .top
+   {
+     padding-top: 3em !important;
+     padding-left: 3em ;
+   }
+
+}
+
+/* Portrait phones and smaller */
+@media (max-width: 480px) 
+{
+  /*.quote
+  {
+    padding-top: 5em;
+  }*/
+}
+
+@media (max-width:320px) {
+
+    
+}
+
