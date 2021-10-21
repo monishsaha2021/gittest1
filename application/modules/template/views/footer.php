@@ -11,6 +11,7 @@
 </div>
 </div>
 </div>
+<!-- added by monish -->
 <!-- Switcher -->
 <div class="demo-options">
    <div class="demo-options-icon"><i class="ti ti-paint-bucket"></i></div>
