@@ -1,6 +1,6 @@
 <!doctype html>
 <html lang="en">
-
+<!-- monish added on 21-10-21 -->
 <head>
 
     <?= $this->load->view('partials/title-meta', ['title' => 'Dashboard']) ?>
