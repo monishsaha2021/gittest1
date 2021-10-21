@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+	<!-- my new changes in header -->
     <meta charset="utf-8">
     <title>Login System</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
